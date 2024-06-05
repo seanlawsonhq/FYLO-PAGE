@@ -182,7 +182,7 @@ body {
     left: 0;
     width: 100%;
     max-width: 500px;
-    top: 241px;
+    top: 250px;
     /* bottom: 0; */
   }
 
@@ -385,7 +385,7 @@ body {
   position: relative;
   top: 160px;
   bottom: 105px;
-  left: 10%;
+  left: 5%;
   right: 70%;
 }
 
@@ -434,9 +434,9 @@ body {
 }
 
 .get_early p {
-  margin-top: 20px, 0px;
+  margin: 25px 0px;
   line-height: 25px;
-  padding: 0, 40px;
+  padding: 0 40px;
   font-size: 14px;
 }
 
@@ -525,10 +525,6 @@ footer {
   display: grid;
   grid-template-columns: 3fr 2fr 2fr 2fr 2fr;
   margin-top: 20px;
-}
-
-.foot_1 .foot_2 .foot_3 .foot_4 .foot_5 {
-  /* border: 3px solid white; */
 }
 
 .foot_1 {
